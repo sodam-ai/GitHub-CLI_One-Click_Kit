@@ -1,0 +1,17 @@
+# 백업 디렉터리 (UNINSTALL.bat 이 자동 생성)
+gh-config-backup/
+
+# 배포용 압축 파일 (GitHub Release 첨부로만 제공)
+*.7z
+*.zip
+
+# Windows 임시 파일
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+
+# 에디터
+.vscode/
+.idea/
+*.swp
