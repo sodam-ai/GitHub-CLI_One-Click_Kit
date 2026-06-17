@@ -1,0 +1,10 @@
+# 기본: 텍스트 자동 감지 (저장소에는 LF로 정규화)
+* text=auto
+
+# Windows 배치/안내 텍스트는 CRLF 그대로 보존
+# (git clone 뿐 아니라 GitHub "Download ZIP" 으로 받아도 cmd 에서 안전하게 동작)
+*.bat -text
+*.txt -text
+
+# 바이너리
+*.pdf binary
