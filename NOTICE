@@ -1,0 +1,41 @@
+GitHub CLI One-Click Kit
+Copyright 2026 SoDam AI Studio
+
+This product is licensed under the Apache License, Version 2.0 (see the
+LICENSE file). You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
+
+--------------------------------------------------------------------------------
+Trademark and affiliation notice
+--------------------------------------------------------------------------------
+
+This kit is an UNOFFICIAL, third-party helper. It is NOT affiliated with,
+sponsored by, or endorsed by GitHub, Inc.
+
+"GitHub", "GitHub CLI", and the GitHub logo are trademarks or registered
+trademarks of GitHub, Inc. "Windows" is a trademark of Microsoft Corporation.
+All other product names, logos, and brands are property of their respective
+owners. These names are used only to describe the software this kit works with.
+
+--------------------------------------------------------------------------------
+Third-party software
+--------------------------------------------------------------------------------
+
+This kit DOES NOT bundle or redistribute GitHub CLI (`gh`). It only helps you
+download, install, run, and remove the official GitHub CLI on your own computer.
+
+GitHub CLI (`gh`) is a separate product developed by GitHub, Inc. and is
+distributed under the MIT License. Its source code and license are available at:
+https://github.com/cli/cli
+
+When this kit installs GitHub CLI, the software is fetched directly from official
+sources (winget, Scoop, or the official GitHub Releases page). Your use of
+GitHub CLI is governed by GitHub's own license and terms, not by this kit.
+
+--------------------------------------------------------------------------------
+No warranty
+--------------------------------------------------------------------------------
+
+This kit is provided "AS IS", without warranty of any kind. Use at your own risk.
+See Sections 7 and 8 of the LICENSE for the full disclaimer and limitation of
+liability.

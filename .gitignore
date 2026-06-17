@@ -1,6 +1,9 @@
 # 백업 디렉터리 (UNINSTALL.bat 이 자동 생성)
 gh-config-backup/
 
+# 문제 해결 로그 (RUN.bat [16] 에서 생성)
+gh-help-log.txt
+
 # 배포용 압축 파일 (GitHub Release 첨부로만 제공)
 *.7z
 *.zip
@@ -15,3 +18,8 @@ desktop.ini
 .vscode/
 .idea/
 *.swp
+
+# 로컬 도구·세션 설정 (커밋 금지)
+.omc/
+.plugin-config/
+.pair-programming-session.md
